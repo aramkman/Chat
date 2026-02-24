@@ -1,0 +1,5 @@
+{
+  "name": "SecureChat Groups",
+  "description": "A secure and customizable group chat application with real-time messaging, profile customization, and group administration.",
+  "requestFramePermissions": []
+}
